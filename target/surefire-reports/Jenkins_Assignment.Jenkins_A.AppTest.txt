@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Jenkins_Assignment.Jenkins_A.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.616 s - in Jenkins_Assignment.Jenkins_A.AppTest
